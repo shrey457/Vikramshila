@@ -1,0 +1,363 @@
+[
+  {
+    "id": "jee",
+    "title": "JEE (Main + Advanced)",
+    "description": "Joint Entrance Examination for engineering aspirants in India.",
+    "subjects": [
+      {
+        "id": "physics",
+        "title": "Physics",
+        "categories": [
+          {
+            "id": "mechanics",
+            "title": "Mechanics",
+            "playlists": [
+              {
+                "id": "PL_A4M5IAkMaev6ovGTwhfLLidWzCveoHZ",
+                "notesUrl": "https://drive.google.com/drive/folders/1A_B_C_exampleDriveLink"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMadyoou3Fl2jR0pG3X1Wi6xA&si=GZlXn4dbE6JBfcWG",
+                "notesUrl": "https://drive.google.com/file/d/1aqp5ZVl8ZrH2gYcVslsfH76g7juDT6OD/view"
+              },
+               {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMac_AeDfj1l85vp_93Dk_Agt&si=Gd_hkMttXQ8UimWL",
+                "notesUrl": "https://drive.google.com/file/d/1aqp5ZVl8ZrH2gYcVslsfH76g7juDT6OD/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMadzVrsTcZqRkeZ6SOko8pMd&si=1O6MyaM65B6U5gJr",
+                "notesUrl":"https://drive.google.com/file/d/1aqp5ZVl8ZrH2gYcVslsfH76g7juDT6OD/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMadXu_0_nqUQAANlsPNxCM42&si=JgJduXDCSxU7nmpU",
+                "notesUrl": "https://drive.google.com/file/d/1XGTYCr5gmff8aTiPXo3I9-FIMPx7_pYz/view"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMafEN4paY3nfD2U3GsXSu_6F&si=iY5QRy1STuyZUaX5",
+                "notesUrl": "https://drive.google.com/file/d/1XGTYCr5gmff8aTiPXo3I9-FIMPx7_pYz/view"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMaeMjUB_3Z26hU58Gsbwm4Ji&si=_NhY3afWb7YaYxaV",
+                "notesUrl": "https://drive.google.com/file/d/1eZpZ1nbmEkQ1ynb3wzNWWw0y5dwaF8w7/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMadTDfU4hJ23tdPqIwV-v6io&si=oVl8UONNiH4e4mt2",
+                "notesUrl": "https://drive.google.com/file/d/15v-H3ARE-RqOq53T9XqM-WEONdnLEPuk/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMad-bxE6Fu7wyp_wyUcctCmU&si=wxkpy2prALkx80PO",
+                "notesUrl": "https://drive.google.com/file/d/1JIkz-Q-ai-O4N9hWQhcQjbUonohYnu8o/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMacVaetkKqlCBstwK7TdjOa9&si=jziQ3_-jOh11yjKc",
+                "notesUrl": "https://drive.google.com/file/d/1cTIpFX6OErW7tJdMw76TOCEWaiTZlNQO/view?usp=drive_link"
+              }
+
+
+            ]
+          },
+
+        {
+            "id": "thermodynamics",
+            "title": "Thermodynamics",
+            "playlists": [
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMaegSCELKLq7FFLhYJdVIL87&si=f2UTk2F6-ImkY4qv",
+                "notesUrl": "https://drive.google.com/file/d/1pm0VA1nVasqokBmRzQjsb5k7lo7YCGjf/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMadOzxKmO5t223TkLNxCt2Vn&si=w-XXUcpjyNPF9e5s",
+                "notesUrl": "https://drive.google.com/file/d/1iJukIEhFu0rP74-EiU6mEgj0sx9l1tmj/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PLkC6TX8OQWIH2uKZ_mG_eQWn5DZ3shnGZ&si=DMGo6YSUzdHtIQn6",
+                "notesUrl": "https://drive.google.com/file/d/1Lnn4mLqtK5PIz2Kv7GG1Wt90IOeFsINS/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMadCqEDGWpPY-ScpPMZpVHqK&si=INh7ThIueyldkEgm",
+                "notesUrl":"https://drive.google.com/file/d/1JfwXyA6ANor-j2FvZWfdLyz5N_rEDLdO/view?usp=drive_link"
+              }
+            ]
+          },
+
+          {
+            "id": "waves",
+            "title": "Waves, Oscillations % Fluids",
+            "playlists": [
+
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMaclEO9yS-dyifDyAxIOqmTa&si=RZ8PIFsmUu-8_JUF",
+                "notesUrl":"https://drive.google.com/file/d/1_gf4MF3wP31sNpSvgyaXGJXPmf9iNlIO/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMafu-f7-CE7JXlzyi-l3FEfk&si=VKVpPqRcTWFJbMvy",
+                "notesUrl":"https://drive.google.com/file/d/1dMEFAoXjS1gWAGETSOUMTizDas9rYXTM/view?usp=sharing"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMac9yFGuvQIRmEDIdGaf-wRk&si=ihWIpTiBbOPQ2Hcl",
+                "notesUrl":"https://www.scribd.com/document/749229679/Sound-Waves-Notes-ABJ-Sir"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMac8lrmOeJ3yuiqPPNXxnh6Q&si=GOkubaLwQztbO1rv",
+                "notesUrl":"https://drive.google.com/file/d/1kRNLdHaMAa651wQ5lXQ69tcukaWQ9udn/view"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMacuWACFhY1HSZAfZlwml0X4&si=LlDWcz7nrdRT4AFS",
+                "notesUrl":"https://drive.google.com/file/d/15mdejWV3TPOEwvVTX71r6p6DtdTO5SYm/view"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PLOo5vojAiF54Qp0nPQi-bgKqSMyLmu6m5&si=0mViHgCkCiM_9DXH",
+                "notesUrl":"https://drive.google.com/file/d/15mdejWV3TPOEwvVTX71r6p6DtdTO5SYm/view"
+              }
+
+
+            ]
+          },
+
+          {
+            "id": "electrodynamics",
+            "title": "Electrodynamics",
+            "playlists": [
+
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMae_Hntw2myU3dHQ417zcxn6&si=EXwPziB9WgQH2WcL",
+                "notesUrl":"https://drive.google.com/file/d/1wxv1c1942BG9E9Bm7QbChnEEDKdUP7w-/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PLzMBx3jQSsI2xAxxdBNsSAgw9VAGyYKI1&si=F5v_LDIFOIZccHUo",
+                "notesUrl":"https://drive.google.com/drive/folders/1YgjkUhVUGacci_dYU3MX40ZMdmlhzG4I"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMaeGEjLX2pJU-qqnPcyjpBiV&si=4LStZBDTlAC1JNfd",
+                "notesUrl":"https://drive.google.com/file/d/15MUnUui8qXSSVyKXpv3LoB-rIXaX--CR/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMaf4jTvOb0KoK4jmcZKw386A&si=IbPkiv0meu6sYwE1",
+                "notesUrl":"https://drive.google.com/file/d/1wsZVp_IkK9AHsbsrOYEi882D7KgKmbyC/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMafFQcF0bW3sccrtnGx0FXO2&si=hQ71UgzqiPTt3cXR",
+                "notesUrl":"https://drive.google.com/file/d/1PL0kgiQhuHu9Rvamhu5OWpGRmQxt6Vhn/view?usp=sharing"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMadhXJKhZnVuDeO_0UAaqIXB&si=xaTMNw7dI_CJfT5U",
+                "notesUrl":"https://drive.google.com/file/d/174whQASeU1S8YUfA860y07EfpJfdOez-/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMacf--9QU-ep-YmRHc3e2_6v&si=EQbpFjECocNR89_E",
+                "notesUrl":"https://drive.google.com/file/d/174whQASeU1S8YUfA860y07EfpJfdOez-/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PLzMBx3jQSsI0u2zYhgjIoW9C_PN0wzSID&si=zmlRUTp_DZMT0FtF",
+                "notesUrl":"https://drive.google.com/file/d/1i_s-geCopJA3fo366tFfwblgi_roLJ20/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMadVthpkQ-MUWN5ldV_BO8op&si=AN9DohgeNeJzHV-T",
+                "notesUrl":"https://drive.google.com/file/d/1oVSTC6ishsPHFgGgUNa0yXJIcf7A5_bE/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMafg7ZUZZpXS8mGSBP49fjl3&si=pONEm1E0zSNXLUVd",
+                "notesUrl":"https://drive.google.com/file/d/1YBR5O_MU-ALE2fk1eFZeCQKWV6N80tUV/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PLzMBx3jQSsI3YQ8rc9gTI-P0PVWE8MC2b&si=wpmYBL72HK6mWG8d",
+                "notesUrl":"https://drive.google.com/file/d/1aCyP59AGfHTTIHhSn_i5WimF_VI2ByM7/view?usp=drive_link"
+              }
+
+            ]
+          },
+          {
+            "id": "optics-modern-physics",
+            "title": "Optics & Modern Physics",
+            "playlists": [
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMaeXk9ukLRM-SS-b3e18SMwj&si=4pV1oNSpmX2yFWCM",
+                "notesUrl":"https://drive.google.com/file/d/13cCgKrS3rKlwZGvtYgrIBw0cOCzDRrCa/view?usp=sharing"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMadpiaxmDasoChFugiq6K53N&si=Dnea5Kkyk0YxilKH",
+                "notesUrl":""
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PLzMBx3jQSsI2XHwX_DWh1Kop1Udis8muG&si=0_UD0stWkfVZ_wMo",
+                "notesUrl":""
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMadYqzTASKdG_r2YQ2XP8-o9&si=JvAAPc9VCe9kW0Aq",
+                "notesUrl":"https://drive.google.com/file/d/17bP9mTkKABAbNeNmrAmrERSA6WYee5F4/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMafsz-lLF3hcCPa3ntZegP-s&si=g_wQ5HW8DNT94u3i",
+                "notesUrl":"https://drive.google.com/file/d/17XJkew5NlvEWveC88A0zWKUNnTMRmgh9/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PLzMBx3jQSsI0owcTTezf2ViTZHbk5LrbR&si=QthhWsGn2YrdXQPP",
+                "notesUrl":"https://drive.google.com/file/d/17Y3f6ifpvTiUdWDSCcBMpl7ugylsxi-d/view?usp=drive_link"
+              },
+              {
+                "id": "https://youtube.com/playlist?list=PL_A4M5IAkMad1pjDKqz6DZuH32ynVQjqh&si=4DlnKFZ6GEa2VbUA",
+                "notesUrl":"https://drive.google.com/file/d/17c-eV6KXascnemkqMGYgU2BZSckxnTKz/view?usp=drive_link"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "maths",
+        "title": "Mathematics",
+        "categories": [
+          {
+            "id": "linear-algebra",
+            "title": "Linear Algebra",
+            "playlists": [
+              "PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "chemistry",
+        "title": "Chemistry",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "id": "neet",
+    "title": "NEET",
+    "description": "National Eligibility cum Entrance Test for medical aspirants.",
+    "subjects": [
+      {
+        "id": "physics",
+        "title": "Physics",
+        "categories": []
+      },
+      {
+        "id": "chemistry",
+        "title": "Chemistry",
+        "categories": []
+      },
+      {
+        "id": "biology",
+        "title": "Biology",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "id": "cat",
+    "title": "CAT / MBA",
+    "description": "Common Admission Test for MBA aspirants.",
+    "subjects": [
+      {
+        "id": "quants",
+        "title": "Quantitative Aptitude",
+        "categories": [
+          {
+            "id": "vedic-maths",
+            "title": "Vedic Mathematics",
+            "playlists": [
+              "PLVLoWQFkZbhVeoqYRKydLyXanZQdQXjCv"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "varc",
+        "title": "Verbal Ability & RC",
+        "categories": []
+      },
+      {
+        "id": "dilr",
+        "title": "Data Interpretation & LR",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "id": "upsc",
+    "title": "UPSC / Civil Services",
+    "description": "Union Public Service Commission examinations.",
+    "subjects": [
+      {
+        "id": "gs1",
+        "title": "General Studies I",
+        "categories": []
+      },
+      {
+        "id": "gs2",
+        "title": "General Studies II (Polity)",
+        "categories": []
+      },
+      {
+        "id": "gs3",
+        "title": "General Studies III (Economy)",
+        "categories": []
+      },
+      {
+        "id": "gs4",
+        "title": "Ethics",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "id": "gate",
+    "title": "GATE",
+    "description": "Graduate Aptitude Test in Engineering.",
+    "subjects": [
+      {
+        "id": "cse",
+        "title": "Computer Science",
+        "categories": []
+      },
+      {
+        "id": "ece",
+        "title": "Electronics & Communication",
+        "categories": []
+      },
+      {
+        "id": "mech",
+        "title": "Mechanical Engineering",
+        "categories": []
+      },
+      {
+        "id": "civil",
+        "title": "Civil Engineering",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "id": "boards",
+    "title": "Class 11 / 12 Boards",
+    "description": "CBSE and State Board preparation.",
+    "subjects": [
+      {
+        "id": "physics",
+        "title": "Physics",
+        "categories": []
+      },
+      {
+        "id": "chemistry",
+        "title": "Chemistry",
+        "categories": []
+      },
+      {
+        "id": "maths",
+        "title": "Mathematics",
+        "categories": []
+      },
+      {
+        "id": "biology",
+        "title": "Biology",
+        "categories": []
+      },
+      {
+        "id": "english",
+        "title": "English",
+        "categories": []
+      }
+    ]
+  }
+]
